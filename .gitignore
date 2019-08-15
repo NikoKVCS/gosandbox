@@ -1,0 +1,9 @@
+*.exe
+*.zip
+h5-go
+bin/
+logs/
+FlameGraph
+*.svg
+.vscode
+.idea/
